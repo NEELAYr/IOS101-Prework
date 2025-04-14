@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[GIF](https://imgflip.com/gif/9qpuav) .
+[GIF](https://i.imgur.com/F5xVVt3.mp4) .
 
 ## App Brainstorming (Step 4)
 Cred: UI, animations
